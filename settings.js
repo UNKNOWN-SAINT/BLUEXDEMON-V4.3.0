@@ -3,13 +3,13 @@ const version = require("@whiskeysockets/baileys/package.json").version
 
 
 //Input number for pair code
-global.pairingNumber = "2348117485055"
+global.pairingNumber = "233535640851"
 
 
 
 
 //DO NOT EDIT OR MODD
-global.botNumber = pairingNumber
+global.botNumber = 233535640851
 global.domain = "https://.nobodysey.me"
 global.apikey = "ptla_DfGlmoY7jCzmkNUgyK925FPVE08Kr4mxwLMep"
 global.capikey = "ptlc_GTm42E3qIwbLW3K9w3htljUvhGvnG71hoPTqE"
@@ -43,9 +43,9 @@ global.sgc = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.sig = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.web = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 //setbot
-global.botName = "⚜️HOLY_DEMON😈⚜️ 𝐕𝟒" 
-global.wm = "HOLY 𝐗 SAINT 𝐕𝟒"
-global.fake = botName
+global.botName = "⚜️XTRA SHEET😈⚜️ 𝐕𝟒" 
+global.wm = "XTRA SHEET 𝐕𝟒"
+global.fake = XTRA SHEET
 global.setmenu = "image" 
 global.docType = "application/vnd.ms-excel"
 global.themeemoji = '🫥'
